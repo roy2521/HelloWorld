@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B68C-39FB
+
+ Directory of C:\Users\USER\Desktop\devops project\jenkins\pythonProject
+
+08/05/2024  06:04 PM    <DIR>          .
+08/05/2024  06:04 PM    <DIR>          ..
+08/05/2024  05:37 PM                48 print.py
+08/05/2024  06:04 PM                 0 test.txt
+               2 File(s)             48 bytes
+               2 Dir(s)  44,343,377,920 bytes free
